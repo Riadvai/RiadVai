@@ -1,66 +1,93 @@
-<h1 align="center">Hi 👋, I'm MD. Mehedi Hasan Riad</h1>
-<h3 align="center">Software Developer | WordPress Developer | Automation Enthusiast</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c8c4d,100:2CD080&height=200&section=header&text=MD.%20Mehedi%20Hasan%20Riad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">Software & Web Developer | WordPress | Automation (n8n)</h3>
 
 <p align="center">
-  I build clean, responsive websites, WordPress solutions, and automation workflows that help businesses work smarter.
+  Building modern websites, mobile apps & automation systems 🚀
 </p>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m working on web development, WordPress, and automation projects
-- 🌱 I’m currently learning Java, Kotlin, and modern backend practices
-- 💬 I enjoy working with HTML, CSS, JavaScript, PHP, WordPress, Elementor, n8n, Git, and GitHub
-- 📫 Reach me at: **rahnamahamedriad0011@gmail.com**
+- 💻 Software & Web Developer  
+- 🌐 WordPress Developer (Elementor Expert)  
+- 📱 Mobile App Developer (Java, Kotlin, Flutter)  
+- ⚙️ Automation Specialist (n8n & API Integration)  
+- 🎯 Focused on real-world problem solving  
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elementor/elementor-original.svg" alt="elementor" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" />
+</p>
+
+### 📱 App Development
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter" />
+</p>
+
+### ⚙️ Automation & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,git,github" />
 </p>
 
 ---
 
-### What I Do
+## 🚀 What I Do
 
-- Responsive website development
-- WordPress theme and page builder customization
-- Custom PHP and JavaScript solutions
-- Workflow automation with n8n
-- Simple, practical UI implementation
-
----
-
-### Featured Repositories
-
-- [otwptest](https://github.com/Riadvai/otwptest)
-- [Satellite_Vpn](https://github.com/Riadvai/Satellite_Vpn)
-- [Calculator](https://github.com/Riadvai/Calculator)
+✔ Build responsive modern websites  
+✔ Develop WordPress sites (Elementor + Custom)  
+✔ Create mobile apps (Android + Flutter)  
+✔ Build automation workflows (n8n)  
+✔ API integration & system automation  
 
 ---
 
-### Connect With Me
+## 📱 Published Apps
 
-<p align="left">
-  <a href="https://linkedin.com/in/riad11" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/>
-  </a>
-  <a href="https://fb.com/rahnam.ahamed.420" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="32" height="32"/>
-  </a>
-  <a href="https://instagram.com/riadahamed420" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="32" height="32"/>
-  </a>
+- 📌 Available on **Google Play Store**  
+- 🔗 [Swift Video Downloader](https://play.google.com/store/apps/details?id=com.mhrdev.swiftvideodownloader&hl=en)
+- 🔗 [SwiftScan: PDF & QR Scanner](https://play.google.com/store/apps/details?id=com.mhrsquad.swiftscan&hl=en)
+
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **otwptest** – WordPress Developer Assessment  
+- 🔹 **Satellite_Vpn** – Android App  
+- 🔹 **Calculator App** – UI Mobile Project  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **mhr.developer.riad@gmail.com**  
+- 🔗 LinkedIn: https://linkedin.com/in/riadvai 
+- 📘 Facebook: https://fb.com/Mhr.Dev
+- 🔗 Portfolio Website: https://mhrdeveloper.infinityfreeapp.com/ 
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riadvai&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riadvai&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c8c4d,100:2CD080&height=120&section=footer"/>
 </p>
