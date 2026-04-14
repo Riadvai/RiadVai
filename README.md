@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,100:8000ff&height=200&section=header&text=MD.%20Mehedi%20Hasan%20Riad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
