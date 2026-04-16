@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=250&section=header&text=MD.%20Mehedi%20Hasan%20Riad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:8e44adf&height=250&section=header&text=MD.%20Mehedi%20Hasan%20Riad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- ================= TYPING ================= -->
