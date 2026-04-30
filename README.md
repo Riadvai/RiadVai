@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://riadvai.github.io/contribution-graph/">
-    <img src="https://img.shields.io/badge/View%20Animated%20Graph-00f7ff?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/View%20Animated%20Graph-FD8112?style=for-the-badge"/>
   </a>
 </p>
 
