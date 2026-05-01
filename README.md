@@ -6,7 +6,7 @@
 
 <!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Software+%26+Web+Developer;WordPress+Elementor+Expert;App+Developer;Automation+Specialist+(n8n+%26+API);Building+real-world+solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFF&center=true&vCenter=true&width=750&lines=Software+%26+Web+Developer;WordPress+Elementor+Expert;App+Developer;Automation+Specialist+(n8n+%26+API);Building+real-world+solutions+🚀" />
 </p>
 
 <!-- ================= VISITOR ================= -->
@@ -52,10 +52,11 @@
 ---
 🧠 Skill Progress
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadvai&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riadvai&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riadvai&layout=donut&theme=tokyonight" />
+
 </p>
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riadvai&theme=tokyonight" /> </p>
 ---
 
 ## 📱 Published Apps
@@ -76,9 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riadvai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riadvai&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riadvai&show_icons=true&theme=tokyonight"/>
 </p>
+
+
 
 ---
 
