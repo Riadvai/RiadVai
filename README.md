@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://riadvai.github.io/contribution-graph/">
-    <img src="https://img.shields.io/badge/View%20Animated%20Graph-FD8112?style=for-the-badge"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=riadvai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </a>
 </p>
 
