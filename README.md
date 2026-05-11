@@ -14,6 +14,29 @@
   <img src="https://komarev.com/ghpvc/?username=riadvai&label=Profile%20Visitors&color=FD8112&style=flat" />
 </p>
 
+<p align="center">
+
+<a href="mailto:mhr.developer.riad@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" title="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/riadvai">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://fb.com/Mhr.Dev">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" title="Facebook"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://mhrdeveloper.infinityfreeapp.com">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="40" title="Portfolio"/>
+</a>
+
+</p>
+
 <!-- ================= DEV ANIMATION ================= -->
 <h2 align="center">⚡ Building Real-World Solutions</h2>
 
@@ -101,32 +124,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mhr.developer.riad@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" title="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/riadvai">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://fb.com/Mhr.Dev">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" title="Facebook"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://mhrdeveloper.infinityfreeapp.com">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="40" title="Portfolio"/>
-</a>
-
-</p>
-
----
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
