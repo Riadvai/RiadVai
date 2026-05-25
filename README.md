@@ -59,10 +59,11 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,java,kotlin,flutter,firebase,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=wordpress,flutter,dart,firebase,php,js,html,css,mysql,git,github,vscode" />
+
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48"/>
 </p>
 
----
 
 ## 🚀 Services
 
