@@ -46,13 +46,54 @@
 
 ---
 
-## 👨‍💻 About Me
 
-- 💻 Software & Web Developer  
-- 🌐 WordPress Developer (Elementor Expert)  
-- 📱 Mobile App Developer (Java, Kotlin, Flutter)  
-- ⚙️ Automation Specialist (n8n & API Integration)  
-- 🚀 Passionate about solving real-world problems  
+
+
+<table>
+<tr>
+
+<td width="45%" valign="top">
+
+<h3>👨‍💻 About Me</h3>
+
+🔹 Software & Web Developer with a passion for building scalable digital solutions.
+
+🔹 Specialized in WordPress Development using Elementor and custom workflows.
+
+🔹 Developing modern Mobile Applications with Flutter, Dart, Java & Firebase.
+
+🔹 Experienced in API Integration, Automation Systems and Business Process Optimization.
+
+🔹 Focused on creating high-performance products that solve real-world problems.
+
+</td>
+
+<td width="10%"></td>
+
+<td width="45%" valign="top">
+
+<h3>🚀 What I Do</h3>
+
+✅ Responsive Business Websites
+
+✅ WordPress & Elementor Development
+
+✅ Flutter Mobile Applications
+
+✅ n8n Workflow Automation
+
+✅ REST API Integration
+
+✅ Database Design & Backend Logic
+
+✅ Performance Optimization
+
+✅ Technical Problem Solving
+
+</td>
+
+</tr>
+</table>
 
 ---
 
